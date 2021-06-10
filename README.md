@@ -1,1 +1,1 @@
-# Woocommerce-Mpesa-Plugin
+# Woocommerce-Lipalater-Plugin
